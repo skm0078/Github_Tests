@@ -1,1 +1,3 @@
 file 3 started in alpha branch
+file was commited in alpha branch
+file is now modified in beta branch

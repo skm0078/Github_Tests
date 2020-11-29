@@ -1,2 +1,4 @@
 start file
 alpha branch operation
+file was commited in alpha branch
+file is now modified in beta branch
